@@ -14,7 +14,6 @@ function nextPromise(list, startWith, delegate, predicate) {
   }
 
   function next(i) {
-    console.log(i, list.length);
     if (list.length <= i) {
       return q(true);
     }
