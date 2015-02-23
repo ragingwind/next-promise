@@ -1,6 +1,6 @@
 #  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]
 
-> Run a promised func sequencing by following order of params. This is inspired from [Q promise로 차례대로 비동기작업 실행하기 :: Outsider's Dev Story](http://goo.gl/Je3d8n)
+> Run a promised func sequencing by following order of params. This is inspired by [Q promise로 차례대로 비동기작업 실행하기 :: Outsider's Dev Story](http://goo.gl/Je3d8n)
 
 
 ## Install
